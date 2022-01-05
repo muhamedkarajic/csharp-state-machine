@@ -1,0 +1,20 @@
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\bin\Debug\State Design Pattern.exe.config
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\bin\Debug\State Design Pattern.exe
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\bin\Debug\State Design Pattern.pdb
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State Design Pattern.csproj.AssemblyReference.cache
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State Design Pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\UI\EntryPage.g.cs
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\UI\MainWindow.g.cs
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\UI\StatusPage.g.cs
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\App.g.cs
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.cache
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.lref
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\UI\EntryPage.baml
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\UI\MainWindow.baml
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\UI\StatusPage.baml
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State Design Pattern.g.resources
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State_Design_Pattern.Properties.Resources.resources
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State Design Pattern.csproj.GenerateResource.cache
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State Design Pattern.exe
+C:\Users\Administrator\GitHub\csharp-state-machine\State Design Pattern\obj\Debug\State Design Pattern.pdb
